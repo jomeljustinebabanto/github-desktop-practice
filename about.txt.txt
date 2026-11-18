@@ -18,3 +18,8 @@ Skills and Interests:
 - Computer troubleshooting
 - Photography
 - Video editing
+
+My Learning Goals:
+- Improve my programming skills.
+- Learn more about networking and cybersecurity.
+- Explore cloud computing and automation.
