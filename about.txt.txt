@@ -23,3 +23,9 @@ My Learning Goals:
 - Improve my programming skills.
 - Learn more about networking and cybersecurity.
 - Explore cloud computing and automation.
+
+My Favorite Subject:
+Platform Technologies
+
+Why I Like It:
+I enjoy learning how websites are created and how technology can be used to build useful applications.
